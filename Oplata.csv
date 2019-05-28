@@ -1,0 +1,664 @@
+﻿Data operacji;Data waluty;Typ transakcji;Kwota;Waluta;Lokalizacja
+2018-01-01;2017-12-30;Płatność kartą;-2.5;PLN;Lokalizacja:     ZABKA Z5902 K.1
+2018-01-01;2017-12-30;Płatność kartą;-5.09;PLN;Lokalizacja:     CARREFOUR
+2018-01-06;2018-01-04;Płatność kartą;-11.23;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-01-07;2018-01-05;Płatność kartą;-14;PLN;Lokalizacja:     Top Market
+2018-01-13;2018-01-11;Płatność kartą;-7;PLN;Lokalizacja:     ASEC Metro Slodowiec Pn T
+2018-01-14;2018-01-12;Płatność kartą;-17.05;PLN;Lokalizacja:     Top Market
+2018-01-15;2018-01-14;Płatność kartą;-167.05;PLN;Lokalizacja:     ORLEN 35
+2018-01-18;2018-01-16;Płatność kartą;-7.34;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-01-20;2018-01-19;Płatność kartą;-3.3;PLN;Lokalizacja:     1-MINUTE 21
+2018-01-20;2018-01-19;Płatność kartą;-8;PLN;Lokalizacja:  Nadarzyn  Pajda Catering
+2018-01-21;2018-01-19;Płatność kartą;-40.56;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-01-21;2018-01-19;Płatność kartą;-6.64;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-01-22;2018-01-21;Płatność kartą;-11.5;PLN;Lokalizacja:     McDonalds W-wa Dolinka
+2018-01-22;2018-01-20;Płatność kartą;-25;PLN;Lokalizacja:     MIASTO STOLECZNE  
+2018-01-23;2018-01-21;Płatność kartą;-10.3;PLN;Lokalizacja:     BUFETY STOLOWKI
+2018-01-23;2018-01-21;Płatność kartą;-0.8;PLN;Lokalizacja:     BUFETY STOLOWKI
+2018-01-24;2018-01-23;Płatność kartą;-33.31;PLN;Lokalizacja:     Leroy Merlin   A
+2018-01-24;2018-01-22;Płatność kartą;-45.76;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-01-25;2018-01-24;Płatność kartą;-11;PLN;Lokalizacja:  Nadarzyn  Pajda Catering
+2018-01-26;2018-01-24;Płatność kartą;-5.18;PLN;Lokalizacja:     Top Market
+2018-01-26;2018-01-24;Płatność kartą;-8.81;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-01-28;2018-01-26;Płatność kartą;-2;PLN;Lokalizacja:     POL-JAP tech. komp.
+2018-01-28;2018-01-26;Płatność kartą;-18;PLN;Lokalizacja:     BUFETY STOLOWKI
+2018-01-28;2018-01-26;Płatność kartą;-0.5;PLN;Lokalizacja:     SPP   2
+2018-01-29;2018-01-26;Płatność kartą;-4;PLN;Lokalizacja:     SPP   3
+2018-01-31;2018-01-31;Opłata;-6.9;PLN;
+2018-02-01;2018-01-31;Płatność kartą;-6;PLN;Lokalizacja:     McDonalds 247 W-wa 33 G
+2018-02-02;2018-02-01;Płatność kartą;-322.1;PLN;Lokalizacja:  Piaseczno  ORLEN 01
+2018-02-02;2018-01-31;Płatność kartą;-15.98;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-02-02;2018-01-31;Płatność kartą;-280;PLN;Lokalizacja:     AUT BILET 2481960
+2018-02-02;2018-01-31;Płatność kartą;-7;PLN;Lokalizacja:     AUT BILET 2412140
+2018-02-03;2018-02-01;Płatność kartą;-7;PLN;Lokalizacja:     MPSA - A 398
+2018-02-03;2018-02-01;Płatność kartą;-56.96;PLN;Lokalizacja:  PIASECZNO   AUTO SPORT
+2018-02-04;2018-02-02;Płatność kartą;-11.68;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-02-04;2018-02-02;Płatność kartą;-15.57;PLN;Lokalizacja:     CARREFOUR EXPRESS 332600
+2018-02-07;2018-02-05;Płatność kartą;-91.11;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-02-12;2018-02-10;Płatność kartą;-34;PLN;Lokalizacja:     MOKOT.FUND.WARSZAWIANKA
+2018-02-13;2018-02-12;Płatność kartą;-80.33;PLN;Lokalizacja:  Tarczyn  ORLEN
+2018-02-13;2018-02-11;Płatność kartą;-15;PLN;Lokalizacja:  Poznan  W Drodze Sp. z.o.o.
+2018-02-13;2018-02-11;Płatność kartą;-36.14;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-02-14;2018-02-12;Płatność kartą;-1.5;PLN;Lokalizacja:     SPP   2
+2018-02-17;2018-02-15;Płatność kartą;-65.35;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-02-18;2018-02-16;Płatność kartą;-3.94;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-02-20;2018-02-18;Płatność kartą;-0.93;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-02-21;2018-02-19;Płatność kartą;-31.79;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-02-22;2018-02-21;Płatność kartą;-51.63;PLN;Lokalizacja:     ROSSMANN 32
+2018-02-23;2018-02-22;Płatność kartą;-9;PLN;Lokalizacja:  Nadarzyn  Pajda Catering
+2018-02-24;2018-02-23;Płatność kartą;-8;PLN;Lokalizacja:  Nadarzyn  Pajda Catering
+2018-02-25;2018-02-23;Płatność kartą;-3.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-02-25;2018-02-23;Płatność kartą;-3.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-02-25;2018-02-23;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-02-25;2018-02-23;Płatność kartą;-3.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-02-25;2018-02-23;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-02-25;2018-02-23;Płatność kartą;-3.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-02-25;2018-02-23;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-02-25;2018-02-23;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-02-25;2018-02-23;Płatność kartą;-11.29;PLN;Lokalizacja:  SUCHEDNIOW  LOTOS SF811 K.2
+2018-02-25;2018-02-23;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-02-25;2018-02-23;Płatność kartą;-40.34;PLN;Lokalizacja:  SUCHEDNIOW  LOTOS SF811 K.1
+2018-02-25;2018-02-23;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-02-25;2018-02-23;Płatność kartą;-4.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-02-25;2018-02-23;Płatność kartą;-1.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-02-25;2018-02-23;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-02-25;2018-02-23;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-02-25;2018-02-23;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-02-25;2018-02-23;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-02-25;2018-02-23;Płatność kartą;-3.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-02-25;2018-02-23;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-02-26;2018-02-25;Płatność kartą;-88.48;PLN;Lokalizacja:  Jaksice  ORLEN DOFO
+2018-02-26;2018-02-24;Płatność kartą;-33.85;PLN;Lokalizacja:  BIALKA TATRZA  GS SKLEP 16 PASIEKA
+2018-02-28;2018-02-28;Opłata;-6.9;PLN;
+2018-02-28;2018-02-27;Płatność kartą;-33.55;PLN;Lokalizacja:     ROSSMANN 04
+2018-03-01;2018-02-28;Płatność kartą;-12;PLN;Lokalizacja:  Poznan  McDonalds 415 Poznan Ci
+2018-03-01;2018-02-28;Płatność kartą;-12;PLN;Lokalizacja:  Nadarzyn  Pajda Catering
+2018-03-09;2018-03-08;Płatność kartą;-15;PLN;Lokalizacja:     BELLEVUE POLSKA SP. Z O
+2018-03-09;2018-03-07;Płatność kartą;-38.76;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-03-10;2018-03-08;Płatność kartą;-325;PLN;Lokalizacja:     VSFA ARKADIA
+2018-03-11;2018-03-10;Płatność kartą;-24;PLN;Lokalizacja:     McDonalds 12
+2018-03-11;2018-03-09;Płatność kartą;-17.75;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-03-11;2018-03-09;Płatność kartą;-7.64;PLN;Lokalizacja:     Top Market
+2018-03-12;2018-03-10;Płatność kartą;-16.15;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-03-13;2018-03-12;Płatność kartą;-15.5;PLN;Lokalizacja:     Bar Mleczny Marymont
+2018-03-14;2018-03-13;Płatność kartą;-70.79;PLN;Lokalizacja:     ORLEN 35
+2018-03-14;2018-03-13;Płatność kartą;-150.05;PLN;Lokalizacja:     ORLEN 35
+2018-03-14;2018-03-12;Płatność kartą;-5.4;PLN;Lokalizacja:     Top Market
+2018-03-15;2018-03-13;Płatność kartą;-37.99;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-03-16;2018-03-15;Płatność kartą;-8;PLN;Lokalizacja:     Bar Mleczny Marymont
+2018-03-16;2018-03-14;Płatność kartą;-14.96;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-03-17;2018-03-16;Płatność kartą;-8;PLN;Lokalizacja:     Bar Mleczny Marymont
+2018-03-21;2018-03-19;Płatność kartą;-6.5;PLN;Lokalizacja:     Bar Mleczny Marymont
+2018-03-22;2018-03-20;Płatność kartą;-11.95;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-03-23;2018-03-22;Płatność kartą;-14;PLN;Lokalizacja:  Nadarzyn  Pajda Catering
+2018-03-23;2018-03-21;Płatność kartą;-8.15;PLN;Lokalizacja:     Top Market
+2018-03-23;2018-03-21;Płatność kartą;-20.14;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-03-24;2018-03-23;Płatność kartą;-9;PLN;Lokalizacja:  Nadarzyn  Pajda Catering
+2018-03-24;2018-03-22;Płatność kartą;-11.9;PLN;Lokalizacja:     FIVE O CLOCK
+2018-03-25;2018-03-23;Płatność kartą;-5.2;PLN;Lokalizacja:     Top Market
+2018-03-26;2018-03-25;Płatność kartą;-93.73;PLN;Lokalizacja:  Garwolin  ORLEN
+2018-03-27;2018-03-26;Płatność kartą;-15;PLN;Lokalizacja:  Nadarzyn  Pajda Catering
+2018-03-28;2018-03-27;Płatność kartą;-12;PLN;Lokalizacja:     McDonalds 464  
+2018-03-29;2018-03-28;Płatność kartą;-9;PLN;Lokalizacja:  Nadarzyn  Pajda Catering
+2018-03-29;2018-03-27;Płatność kartą;-33.81;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-03-30;2018-03-31;Opłata;-6.9;PLN;
+2018-03-30;2018-03-28;Płatność kartą;-10.82;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-03-31;2018-03-29;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-03-31;2018-03-29;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-03-31;2018-03-29;Płatność kartą;-8.68;PLN;Lokalizacja:     ZABKA Z5902 K.1
+2018-03-31;2018-03-29;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-03-31;2018-03-29;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-03-31;2018-03-29;Płatność kartą;-3.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-03-31;2018-03-29;Płatność kartą;-3.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-03-31;2018-03-29;Płatność kartą;-3.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-03-31;2018-03-29;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-03-31;2018-03-29;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-03-31;2018-03-29;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-03-31;2018-03-29;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-03-31;2018-03-29;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-03-31;2018-03-29;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-03-31;2018-03-29;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-03-31;2018-03-29;Płatność kartą;-3.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-04-04;2018-04-03;Płatność kartą;-16.67;PLN;Lokalizacja:  Piatnica  ORLEN
+2018-04-04;2018-04-03;Płatność kartą;-75.72;PLN;Lokalizacja:  Elk  ORLEN 01
+2018-04-05;2018-04-04;Płatność kartą;-6;PLN;Lokalizacja:     Bar Mleczny Marymont
+2018-04-05;2018-04-03;Płatność kartą;-1.99;PLN;Lokalizacja:  ELK  JMP S.A. BIEDRONKA 1956
+2018-04-06;2018-04-05;Płatność kartą;-0.5;PLN;Lokalizacja:     Bar Mleczny Marymont
+2018-04-06;2018-04-04;Płatność kartą;-7;PLN;Lokalizacja:     AUT BILET 2412110
+2018-04-07;2018-04-06;Płatność kartą;-9;PLN;Lokalizacja:  Nadarzyn  Pajda Catering
+2018-04-07;2018-04-05;Płatność kartą;-4.65;PLN;Lokalizacja:     Top Market
+2018-04-08;2018-04-06;Płatność kartą;-13.8;PLN;Lokalizacja:     Top Market
+2018-04-08;2018-04-06;Płatność kartą;-7;PLN;Lokalizacja:     MPSA - A 398
+2018-04-08;2018-04-06;Płatność kartą;-52.2;PLN;Lokalizacja:  PIASECZNO   AUTO SPORT
+2018-04-09;2018-04-08;Płatność kartą;-200.43;PLN;Lokalizacja:     ORLEN
+2018-04-10;2018-04-09;Płatność kartą;-12;PLN;Lokalizacja:     McDonalds 33
+2018-04-11;2018-04-10;Płatność kartą;-7.5;PLN;Lokalizacja:     McDonalds 07
+2018-04-11;2018-04-09;Płatność kartą;-7.5;PLN;Lokalizacja:     TADEUSZ ROZNOWSKI
+2018-04-11;2018-04-09;Płatność kartą;-60.67;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-04-12;2018-04-10;Płatność kartą;-6;PLN;Lokalizacja:     LODZIARNIE FIRMOWE SP
+2018-04-12;2018-04-10;Płatność kartą;-10.99;PLN;Lokalizacja:     GO SPORT 233
+2018-04-13;2018-04-11;Płatność kartą;-32.91;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-04-13;2018-04-11;Płatność kartą;-8.49;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-04-15;2018-04-14;Płatność kartą;-24.69;PLN;Lokalizacja:     AUCHAN Ursynow
+2018-04-15;2018-04-13;Płatność kartą;-60.89;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-04-16;2018-04-15;Płatność kartą;-5;PLN;Lokalizacja:     Galeria N Cafe
+2018-04-17;2018-04-16;Płatność kartą;-9;PLN;Lokalizacja:  Nadarzyn  Pajda Catering
+2018-04-17;2018-04-15;Płatność kartą;-82.55;PLN;Lokalizacja:     Zapiecek Freta
+2018-04-18;2018-04-16;Płatność kartą;-20.49;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-04-19;2018-04-18;Płatność kartą;-6;PLN;Lokalizacja:     MCDONALD'S 217 W-WA 28
+2018-04-19;2018-04-17;Płatność kartą;-5.15;PLN;Lokalizacja:     Top Market
+2018-04-19;2018-04-17;Płatność kartą;-17.01;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-04-20;2018-04-19;Płatność kartą;-13;PLN;Lokalizacja:  Nadarzyn  Pajda Catering
+2018-04-20;2018-04-18;Płatność kartą;-16.5;PLN;Lokalizacja:     CINEMA CITY MOKOTOW
+2018-04-21;2018-04-20;Płatność kartą;-16.9;PLN;Lokalizacja:  Belchow  McDonalds 429 MOP Parma
+2018-04-21;2018-04-20;Płatność kartą;-8;PLN;Lokalizacja:  Nadarzyn  Pajda Catering
+2018-04-21;2018-04-19;Płatność kartą;-0.99;PLN;Lokalizacja:     Sebastian Murawski
+2018-04-22;2018-04-20;Płatność kartą;-20.9;PLN;Lokalizacja:  RUSOCIN  GTC SA AUTOSTRADA A1
+2018-04-23;2018-04-22;Płatność kartą;-2.99;PLN;Lokalizacja:  Olsztynek  SHELL
+2018-04-23;2018-04-21;Płatność kartą;-16.59;PLN;Lokalizacja:  Gdansk  SKLEP LEWIATAN
+2018-04-24;2018-04-23;Płatność kartą;-18;PLN;Lokalizacja:  Nadarzyn  Pajda Catering
+2018-04-25;2018-04-24;Płatność kartą;-7.5;PLN;Lokalizacja:     McDonalds 464  
+2018-04-25;2018-04-24;Płatność kartą;-6;PLN;Lokalizacja:     Bar Mleczny Marymont
+2018-04-25;2018-04-23;Płatność kartą;-36.73;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-04-26;2018-04-25;Płatność kartą;-6.99;PLN;Lokalizacja:  Prosienica  ORLEN
+2018-04-26;2018-04-25;Płatność kartą;-25.6;PLN;Lokalizacja:  SUWALKI  KAUFLAND
+2018-04-26;2018-04-25;Płatność kartą;-14;PLN;Lokalizacja:  Suwalki  Sajgon Bar Azjatycki
+2018-04-26;2018-04-25;Płatność kartą;-4.4;PLN;Lokalizacja:     KIOSK RUCHU
+2018-04-26;2018-04-24;Płatność kartą;-5.24;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-04-27;2018-04-26;Płatność kartą;-3.79;PLN;Lokalizacja:  Ostroleka  ORLEN
+2018-04-27;2018-04-25;Płatność kartą;-10.94;PLN;Lokalizacja:  SUWALKI  JMP S.A. BIEDRONKA 3041
+2018-04-29;2018-04-28;Płatność kartą;-97.29;PLN;Lokalizacja:  Glinianka  ORLEN 01
+2018-04-29;2018-04-27;Płatność kartą;-20.15;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-04-29;2018-04-27;Płatność kartą;-13;PLN;Lokalizacja:     CENTRAL LINK Sp. z o.o.
+2018-04-30;2018-04-30;Opłata;-6.9;PLN;
+2018-04-30;2018-04-28;Płatność kartą;-108.94;PLN;Lokalizacja:     TESCO KEN 7 KASA
+2018-05-01;2018-04-30;Płatność kartą;-6;PLN;Lokalizacja:     McDonalds 12
+2018-05-02;2018-05-01;Płatność kartą;-107.99;PLN;Lokalizacja:     ORLEN 01
+2018-05-02;2018-05-02;Opłata;-0.7;PLN;
+2018-05-02;2018-04-30;Płatność kartą;-0.32;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-05-03;2018-05-02;Płatność kartą;-11;PLN;Lokalizacja:     McDonalds 05
+2018-05-03;2018-05-02;Płatność kartą;-12.5;PLN;Lokalizacja:     Bar Mleczny Marymont
+2018-05-04;2018-05-02;Płatność kartą;-15.4;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-05-04;2018-05-02;Płatność kartą;-280;PLN;Lokalizacja:     AUT BILET 2410300
+2018-05-07;2018-05-06;Płatność kartą;-6;PLN;Lokalizacja:     McDonalds 427  
+2018-05-07;2018-04-27;Płatność kartą;-15;PLN;Lokalizacja:  Nadarzyn  Pajda Catering
+2018-05-08;2018-05-07;Płatność kartą;-9;PLN;Lokalizacja:  Nadarzyn  Pajda Catering
+2018-05-09;2018-05-08;Płatność kartą;-7.5;PLN;Lokalizacja:     McDonalds 464  
+2018-05-09;2018-05-07;Płatność kartą;-50.9;PLN;Lokalizacja:     H AND M NR 120 KASA 7
+2018-05-11;2018-05-10;Płatność kartą;-12.5;PLN;Lokalizacja:     Bar Mleczny Marymont
+2018-05-11;2018-05-09;Płatność kartą;-13.76;PLN;Lokalizacja:     SKLEP SPORTOWN.PL
+2018-05-12;2018-05-11;Płatność kartą;-40.34;PLN;Lokalizacja:     Pizza Hut 08
+2018-05-12;2018-05-11;Płatność kartą;-8;PLN;Lokalizacja:  Nadarzyn  Pajda Catering
+2018-05-12;2018-05-10;Płatność kartą;-44.06;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-05-12;2018-05-10;Płatność kartą;-420.98;PLN;Lokalizacja:     DECATHLON REDUTA
+2018-05-13;2018-05-11;Płatność kartą;-4.15;PLN;Lokalizacja:     Top Market
+2018-05-13;2018-05-11;Płatność kartą;-13.6;PLN;Lokalizacja:     Asec PKP W-wa Srodmiescie
+2018-05-14;2018-05-12;Płatność kartą;-30.17;PLN;Lokalizacja:     TESCO KEN KASA 142
+2018-05-14;2018-05-12;Płatność kartą;-30.34;PLN;Lokalizacja:  BRODNICA  JMP S.A. BIEDRONKA 1946
+2018-05-14;2018-05-12;Płatność kartą;-95.63;PLN;Lokalizacja:  PIENKOW  BP-KAMYCZEK 271
+2018-05-15;2018-05-14;Płatność kartą;-7;PLN;Lokalizacja:     Bar Mleczny Marymont
+2018-05-16;2018-05-15;Płatność kartą;-7.5;PLN;Lokalizacja:     McDonalds 464  
+2018-05-16;2018-05-15;Płatność kartą;-10;PLN;Lokalizacja:     Bar Mleczny Marymont
+2018-05-17;2018-05-16;Płatność kartą;-90.43;PLN;Lokalizacja:     ORLEN 35
+2018-05-17;2018-05-15;Płatność kartą;-33.46;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-05-21;2018-05-20;Płatność kartą;-214.85;PLN;Lokalizacja:  Krakow  ORLEN 21
+2018-05-23;2018-05-23;Opłata;-4.99;PLN;
+2018-05-24;2018-05-23;Płatność kartą;-0.98;PLN;Lokalizacja:  Kruszyna  ORLEN
+2018-05-24;2018-05-23;Płatność kartą;-21.28;PLN;Lokalizacja:  Zakopane  Kazimierz Czarny
+2018-05-25;2018-05-24;Płatność kartą;-17;PLN;Lokalizacja:  Zakopane  McDonalds 01
+2018-05-25;2018-05-23;Płatność kartą;-2.3;PLN;Lokalizacja:     Top Market
+2018-05-25;2018-05-23;Płatność kartą;-10.3;PLN;Lokalizacja:  ZAKOPANE  PAMIATKOWO
+2018-05-26;2018-05-25;Płatność kartą;-119;PLN;Lokalizacja:  Elk  Giacomo Conti CH Brama
+2018-05-28;2018-05-27;Płatność kartą;-106.12;PLN;Lokalizacja:  Elk  ORLEN 01
+2018-05-29;2018-05-28;Płatność kartą;-9;PLN;Lokalizacja:  Nadarzyn  Pajda Catering
+2018-05-30;2018-05-31;Opłata;-6.9;PLN;
+2018-05-30;2018-05-28;Płatność kartą;-4.45;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-05-30;2018-05-28;Płatność kartą;-7.9;PLN;Lokalizacja:     Top Market
+2018-05-31;2018-05-30;Płatność kartą;-138;PLN;Lokalizacja:     Leroy Merlin   A
+2018-05-31;2018-05-30;Płatność kartą;-4.12;PLN;Lokalizacja:     VITAMARKET
+2018-05-31;2018-05-29;Płatność kartą;-21.61;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-06-01;2018-05-30;Płatność kartą;-23;PLN;Lokalizacja:     FIVE O CLOCK ARKADIA
+2018-06-01;2018-05-30;Płatność kartą;-91.5;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-06-02;2018-06-01;Płatność kartą;-53.99;PLN;Lokalizacja:     ORLENDOFO
+2018-06-02;2018-06-01;Płatność kartą;-120.32;PLN;Lokalizacja:     CASTORAMA   TARG
+2018-06-02;2018-06-01;Płatność kartą;-13.5;PLN;Lokalizacja:     Bar Mleczny Marymont
+2018-06-04;2018-06-01;Płatność kartą;-4.65;PLN;Lokalizacja:     Top Market
+2018-06-04;2018-06-02;Płatność kartą;-56;PLN;Lokalizacja:   AUTO - AGRO
+2018-06-05;2018-06-04;Płatność kartą;-13;PLN;Lokalizacja:     McDonalds 444  
+2018-06-05;2018-06-04;Płatność kartą;-0.2;PLN;Lokalizacja:     XERODRUK24H 1 SP Z O O
+2018-06-06;2018-06-05;Płatność kartą;-6;PLN;Lokalizacja:     McDonalds 464  
+2018-06-06;2018-06-05;Płatność kartą;-270;PLN;Lokalizacja:     CAROLINA MEDICAL CEN 03
+2018-06-07;2018-06-06;Płatność kartą;-6.4;PLN;Lokalizacja:     VITAMARKET
+2018-06-07;2018-06-05;Płatność kartą;-33.98;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-06-08;2018-06-08;Opłata;-0.7;PLN;
+2018-06-08;2018-06-06;Płatność kartą;-6.24;PLN;Lokalizacja:     Top Market
+2018-06-08;2018-06-06;Płatność kartą;-12.68;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-06-09;2018-06-08;Płatność kartą;-314.06;PLN;Lokalizacja:     ORLEN 35
+2018-06-09;2018-06-07;Płatność kartą;-37.97;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-06-09;2018-06-07;Płatność kartą;-7;PLN;Lokalizacja:     AUT BILET 2412070
+2018-06-10;2018-06-09;Płatność kartą;-65.97;PLN;Lokalizacja:     IKEA Retail Sp. z o.o.-
+2018-06-10;2018-06-09;Płatność kartą;-46.7;PLN;Lokalizacja:     DOMINIUM Dostawy
+2018-06-10;2018-06-09;Płatność kartą;-12.15;PLN;Lokalizacja:     Apteka REMEDIUM 01
+2018-06-10;2018-06-08;Płatność kartą;-1.95;PLN;Lokalizacja:  JOZEFOSLAW  SUPERMARKET PIOTR I PA
+2018-06-10;2018-06-08;Płatność kartą;-6.8;PLN;Lokalizacja:     MPSA - A 312
+2018-06-10;2018-06-08;Płatność kartą;-20.24;PLN;Lokalizacja:  PIASECZNO   AUTO SPORT
+2018-06-11;2018-06-09;Płatność kartą;-50;PLN;Lokalizacja:     DOMINIKANIE KLASZTOR
+2018-06-11;2018-06-09;Płatność kartą;-7.3;PLN;Lokalizacja:     BETTI BEATA SOKOL
+2018-06-12;2018-06-11;Płatność kartą;-6;PLN;Lokalizacja:     Bar Mleczny Marymont
+2018-06-13;2018-06-12;Płatność kartą;-11;PLN;Lokalizacja:     BACOWKA TOWARY TRADY 04
+2018-06-13;2018-06-11;Płatność kartą;-6.2;PLN;Lokalizacja:     Top Market
+2018-06-14;2018-06-13;Płatność kartą;-6.29;PLN;Lokalizacja:     RELAY 35
+2018-06-14;2018-06-12;Płatność kartą;-20.45;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-06-14;2018-06-12;Płatność kartą;-8.5;PLN;Lokalizacja:     Top Market
+2018-06-15;2018-06-14;Płatność kartą;-7.49;PLN;Lokalizacja:     ROSSMANN 120
+2018-06-15;2018-06-14;Płatność kartą;-67.97;PLN;Lokalizacja:     Euro-Apteka A81 01
+2018-06-16;2018-06-14;Płatność kartą;-8.47;PLN;Lokalizacja:     TESCO GOCLAW 144
+2018-06-16;2018-06-14;Płatność kartą;-17.22;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-06-17;2018-06-16;Płatność kartą;-8.45;PLN;Lokalizacja:     Leroy Merlin   O
+2018-06-17;2018-06-17;Opłata;-0.7;PLN;
+2018-06-19;2018-06-18;Płatność kartą;-0.21;PLN;Lokalizacja:     BACOWKA TOWARY TRADY 04
+2018-06-19;2018-06-18;Płatność kartą;-11.5;PLN;Lokalizacja:     BACOWKA TOWARY TRADY 04
+2018-06-20;2018-06-19;Płatność kartą;-23.5;PLN;Lokalizacja:     BACOWKA TOWARY TRADY 04
+2018-06-20;2018-06-18;Płatność kartą;-0.76;PLN;Lokalizacja:     ZABKA Z5902 K.1
+2018-06-20;2018-06-18;Płatność kartą;-8.94;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-06-20;2018-06-18;Płatność kartą;-2.6;PLN;Lokalizacja:     CARREFOUR EXPRESS E57
+2018-06-21;2018-06-20;Płatność kartą;-28.47;PLN;Lokalizacja:     BACOWKA TOWARY TRADY 04
+2018-06-22;2018-06-20;Płatność kartą;-238.89;PLN;Lokalizacja:     MARKET OBI 017 MB KASA
+2018-06-22;2018-06-20;Płatność kartą;-0.99;PLN;Lokalizacja:     MARKET OBI 017 MB KASA
+2018-06-22;2018-06-20;Płatność kartą;-262.76;PLN;Lokalizacja:     MARKET OBI 017 MB KASA
+2018-06-22;2018-06-20;Płatność kartą;-22.7;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-06-23;2018-06-21;Płatność kartą;-43.96;PLN;Lokalizacja:     MARKET OBI 017 MB KASA
+2018-06-26;2018-06-25;Płatność kartą;-10.5;PLN;Lokalizacja:     VITAMARKET
+2018-06-27;2018-06-25;Płatność kartą;-10.15;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-06-27;2018-06-25;Płatność kartą;-10.44;PLN;Lokalizacja:     APTEKA
+2018-06-28;2018-06-27;Płatność kartą;-13;PLN;Lokalizacja:     Pelna Chata
+2018-06-29;2018-06-30;Opłata;-6.9;PLN;
+2018-06-29;2018-06-28;Płatność kartą;-111.56;PLN;Lokalizacja:     ORLEN 35
+2018-06-29;2018-06-27;Płatność kartą;-5.2;PLN;Lokalizacja:     KONSTRUKTORSKA 10 C
+2018-06-29;2018-06-27;Płatność kartą;-3.45;PLN;Lokalizacja:     KONSTRUKTORSKA 10 C
+2018-06-29;2018-06-27;Płatność kartą;-31.25;PLN;Lokalizacja:     FIVE O CLOCK ARKADIA
+2018-07-01;2018-06-30;Płatność kartą;-7;PLN;Lokalizacja:  Elk  PAPAJA MARTA PETER
+2018-07-01;2018-06-29;Płatność kartą;-11.15;PLN;Lokalizacja:     Top Market
+2018-07-01;2018-06-29;Płatność kartą;-51.8;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-07-01;2018-06-29;Płatność kartą;-15.6;PLN;Lokalizacja:     Carte Dor Cafe
+2018-07-02;2018-07-02;Opłata;-0.7;PLN;
+2018-07-02;2018-07-01;Płatność kartą;-80.02;PLN;Lokalizacja:  Brok  ORLEN DOFO
+2018-07-04;2018-07-03;Płatność kartą;-14.5;PLN;Lokalizacja:  Zakopane  McDonalds 01
+2018-07-04;2018-07-02;Płatność kartą;-0.21;PLN;Lokalizacja:     ZABKA Z4322 K.1
+2018-07-05;2018-07-03;Płatność kartą;-2.49;PLN;Lokalizacja:     RUCH 560557
+2018-07-05;2018-07-03;Płatność kartą;-45.42;PLN;Lokalizacja:  ZAKOPANE  JMP S.A. BIEDRONKA 1663
+2018-07-06;2018-07-04;Płatność kartą;-21.77;PLN;Lokalizacja:  ZAKOPANE  JMP S.A. BIEDRONKA 1663
+2018-07-08;2018-07-06;Płatność kartą;-30.46;PLN;Lokalizacja:  Raszyn  IKEA Retail Sp. z o. 01
+2018-07-08;2018-07-06;Płatność kartą;-3.5;PLN;Lokalizacja:     AUCHAN Ursynow
+2018-07-08;2018-07-06;Płatność kartą;-20.99;PLN;Lokalizacja:     MARKET OBI 017 MB KASA
+2018-07-09;2018-07-07;Płatność kartą;-58;PLN;Lokalizacja:  Otwock  M-KWADRAT Pub Restaurac
+2018-07-09;2018-07-07;Płatność kartą;-25.48;PLN;Lokalizacja:  Otwock  CEFARM-  S.A. 03
+2018-07-09;2018-07-07;Płatność kartą;-2.69;PLN;Lokalizacja:     ZABKA Z4322 K.1
+2018-07-09;2018-07-07;Płatność kartą;-12.9;PLN;Lokalizacja:     SKLEP MAK MARYLA KOSECKA
+2018-07-09;2018-07-07;Płatność kartą;-27.99;PLN;Lokalizacja:     MISINPEX MEDIC APTEKA
+2018-07-11;2018-07-11;Opłata;-0.7;PLN;
+2018-07-11;2018-07-11;Opłata;-0.7;PLN;
+2018-07-11;2018-07-10;Płatność kartą;-25.1;PLN;Lokalizacja:     Leroy Merlin   A
+2018-07-11;2018-07-09;Płatność kartą;-15.45;PLN;Lokalizacja:     Top Market
+2018-07-12;2018-07-11;Płatność kartą;-104.84;PLN;Lokalizacja:     ORLEN 38
+2018-07-12;2018-07-11;Płatność kartą;-66.99;PLN;Lokalizacja:  Raszyn  IKEA Retail Sp. z o.o.-
+2018-07-12;2018-07-10;Płatność kartą;-79;PLN;Lokalizacja:     PIZZERIA PIECZYCHLEBEK
+2018-07-13;2018-07-12;Płatność kartą;-62.61;PLN;Lokalizacja:     Leroy Merlin   A
+2018-07-13;2018-07-11;Płatność kartą;-199;PLN;Lokalizacja:     SP   I ARKADIA
+2018-07-13;2018-07-11;Płatność kartą;-6;PLN;Lokalizacja:     LODZIARNIE FIRMOWE SP
+2018-07-13;2018-07-11;Płatność kartą;-12.39;PLN;Lokalizacja:     ZABKA Z4322 K.1
+2018-07-13;2018-07-11;Płatność kartą;-4.65;PLN;Lokalizacja:     Top Market
+2018-07-14;2018-07-13;Płatność kartą;-8.5;PLN;Lokalizacja:     Bar Mleczny Marymont
+2018-07-14;2018-07-12;Płatność kartą;-10.41;PLN;Lokalizacja:     ZABKA Z4322 K.1
+2018-07-14;2018-07-12;Płatność kartą;-4.65;PLN;Lokalizacja:     Top Market
+2018-07-14;2018-07-12;Płatność kartą;-23.9;PLN;Lokalizacja:     BAR WIKING
+2018-07-15;2018-07-13;Płatność kartą;-0.35;PLN;Lokalizacja:     ZABKA Z4322 K.1
+2018-07-15;2018-07-13;Płatność kartą;-2.7;PLN;Lokalizacja:     Top Market
+2018-07-15;2018-07-13;Płatność kartą;-140.99;PLN;Lokalizacja:     GO SPORT 233
+2018-07-17;2018-07-16;Płatność kartą;-90;PLN;Lokalizacja:     MARSZALKOWSKA 140 R. KO
+2018-07-18;2018-07-16;Płatność kartą;-4.65;PLN;Lokalizacja:     Top Market
+2018-07-19;2018-07-18;Płatność kartą;-111.43;PLN;Lokalizacja:  Wilga  ORLEN
+2018-07-19;2018-07-18;Płatność kartą;-8.5;PLN;Lokalizacja:     Bar Mleczny Marymont
+2018-07-20;2018-07-18;Płatność kartą;-4.65;PLN;Lokalizacja:     Top Market
+2018-07-21;2018-07-20;Płatność kartą;-30.97;PLN;Lokalizacja:  Raszyn  IKEA Retail Sp. z o. 01
+2018-07-21;2018-07-19;Płatność kartą;-21.45;PLN;Lokalizacja:     Top Market
+2018-07-21;2018-07-19;Płatność kartą;-10.48;PLN;Lokalizacja:     CARREFOUR HIPERMARKET
+2018-07-22;2018-07-21;Płatność kartą;-24.98;PLN;Lokalizacja:     ROSSMANN 120
+2018-07-23;2018-07-22;Płatność kartą;-135.36;PLN;Lokalizacja:  k/Holendry Ba  ORLEN
+2018-07-23;2018-07-21;Płatność kartą;-10.57;PLN;Lokalizacja:     PRIM
+2018-07-23;2018-07-21;Płatność kartą;-16;PLN;Lokalizacja:     Pracownia Cukiern45994
+2018-07-25;2018-07-23;Płatność kartą;-7.3;PLN;Lokalizacja:     Top Market
+2018-07-26;2018-07-25;Płatność kartą;-16.83;PLN;Lokalizacja:  Piaseczno  RESTAURACJA OLIMP
+2018-07-26;2018-07-24;Płatność kartą;-13.75;PLN;Lokalizacja:     GROSS BLISKO CIEBIE
+2018-07-27;2018-07-26;Płatność kartą;-40.98;PLN;Lokalizacja:     Leroy Merlin   A
+2018-07-27;2018-07-26;Płatność kartą;-3.5;PLN;Lokalizacja:     Carte dor Cafe
+2018-07-27;2018-07-26;Płatność kartą;-160.97;PLN;Lokalizacja:     CCC 09
+2018-07-27;2018-07-26;Płatność kartą;-5.5;PLN;Lokalizacja:  Nadarzyn  Pajda Catering
+2018-07-27;2018-07-25;Płatność kartą;-10.17;PLN;Lokalizacja:     ZABKA Z4322 K.1
+2018-07-28;2018-07-27;Płatność kartą;-10.7;PLN;Lokalizacja:     McDonalds 05
+2018-07-28;2018-07-27;Płatność kartą;-10.7;PLN;Lokalizacja:     McDonalds 07
+2018-07-28;2018-07-26;Płatność kartą;-5.05;PLN;Lokalizacja:     Top Market
+2018-07-29;2018-07-28;Płatność kartą;-50;PLN;Lokalizacja:     CIAO A TUTTI DUE
+2018-07-29;2018-07-27;Płatność kartą;-3.4;PLN;Lokalizacja:     MPSA - A 473
+2018-07-29;2018-07-27;Płatność kartą;-16.58;PLN;Lokalizacja:  PIASECZNO   AUTO SPORT
+2018-07-29;2018-07-27;Płatność kartą;-17.94;PLN;Lokalizacja:     CARREFOUR HIPERMARKET
+2018-07-30;2018-07-28;Płatność kartą;-7;PLN;Lokalizacja:     KWIACIARNIA
+2018-07-31;2018-07-31;Opłata;-6.9;PLN;
+2018-08-02;2018-07-31;Płatność kartą;-1.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-08-02;2018-07-31;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-08-02;2018-07-31;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-08-02;2018-07-31;Płatność kartą;-4.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-08-02;2018-07-31;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-08-02;2018-07-31;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-08-02;2018-07-31;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-08-02;2018-07-31;Płatność kartą;-4.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-08-03;2018-08-02;Płatność kartą;-41;PLN;Lokalizacja:  Orzysz  RESTAURACJA OASIS 01
+2018-08-04;2018-08-03;Płatność kartą;-23.5;PLN;Lokalizacja:  Elk  ORLEN DOFO
+2018-08-04;2018-08-02;Płatność kartą;-10.96;PLN;Lokalizacja:  ELK  APTEKA OSAK
+2018-08-05;2018-08-04;Płatność kartą;-100.31;PLN;Lokalizacja:  Elk  ORLEN 01
+2018-08-05;2018-08-04;Płatność kartą;-13.96;PLN;Lokalizacja:  Elk  Sklep Firmowy Karmel 04
+2018-08-05;2018-08-03;Płatność kartą;-24;PLN;Lokalizacja:  Elk  Restauracja Miedzy Wier
+2018-08-06;2018-08-05;Płatność kartą;-13.3;PLN;Lokalizacja:     McDonalds
+2018-08-08;2018-08-07;Płatność kartą;-112.31;PLN;Lokalizacja:  Turzyn  ORLEN DOFO
+2018-08-08;2018-08-06;Płatność kartą;-280;PLN;Lokalizacja:     MPSA - A 316
+2018-08-08;2018-08-06;Płatność kartą;-21.29;PLN;Lokalizacja:     GROSS BLISKO CIEBIE
+2018-08-08;2018-08-06;Płatność kartą;-11.9;PLN;Lokalizacja:     APTEKA
+2018-08-08;2018-08-06;Płatność kartą;-13.47;PLN;Lokalizacja:     ZABKA Z4548 K.1
+2018-08-09;2018-08-08;Płatność kartą;-14;PLN;Lokalizacja:     McDonalds 464  
+2018-08-09;2018-08-07;Płatność kartą;-4.99;PLN;Lokalizacja:  Kolno  ORLEN
+2018-08-10;2018-08-09;Płatność kartą;-45;PLN;Lokalizacja:     BOBBY BURGER 06
+2018-08-10;2018-08-08;Płatność kartą;-80;PLN;Lokalizacja:     TEATR KWADRAT W WARSZAWIE
+2018-08-10;2018-08-08;Płatność kartą;-4;PLN;Lokalizacja:     Kebab Bajka
+2018-08-11;2018-08-10;Płatność kartą;-115.46;PLN;Lokalizacja:  Przeszkoda  ORLEN DOFO
+2018-08-11;2018-08-09;Płatność kartą;-7.32;PLN;Lokalizacja:     ZABKA Z4322 K.1
+2018-08-11;2018-08-09;Płatność kartą;-6.46;PLN;Lokalizacja:     ZABKA Z4322 K.1
+2018-08-11;2018-08-10;Płatność kartą;-21.4;PLN;Lokalizacja:  Mszczonow  McDonalds 333 MOP Wymys
+2018-08-13;2018-08-11;Płatność kartą;-8.86;PLN;Lokalizacja:     CARREFOUR EXPRESS R36
+2018-08-15;2018-08-14;Płatność kartą;-6;PLN;Lokalizacja:     McDonalds 464  
+2018-08-15;2018-08-14;Płatność kartą;-200;PLN;Lokalizacja:     MD CLINIC Przychodnia W
+2018-08-16;2018-08-15;Płatność kartą;-215.11;PLN;Lokalizacja:     ORLEN 01
+2018-08-16;2018-08-14;Płatność kartą;-3.48;PLN;Lokalizacja:     CARREFOUR EXPRESS R36
+2018-08-19;2018-08-18;Płatność kartą;-113.17;PLN;Lokalizacja:  Wroclaw  ORLEN 21
+2018-08-20;2018-08-19;Płatność kartą;-0.18;PLN;Lokalizacja:  Michalowice  ORLEN 01
+2018-08-20;2018-08-18;Płatność kartą;-13.67;PLN;Lokalizacja: Kraj: HOLANDIA Miasto: help.uber.com  UBER TRIP SBK2C HELP.UBER
+2018-08-20;2018-08-18;Płatność kartą;-17.35;PLN;Lokalizacja: Kraj: HOLANDIA Miasto: help.uber.com  UBER TRIP FE6Y2 HELP.UBER
+2018-08-20;2018-08-18;Płatność kartą;-40.43;PLN;Lokalizacja:  BISKUPICE  LOTOS SF814 K.2
+2018-08-20;2018-08-18;Płatność kartą;-24;PLN;Lokalizacja:  Wroclaw  KARCZMA LWA Barba 3922
+2018-08-20;2018-08-18;Płatność kartą;-23.7;PLN;Lokalizacja:  ZDUNSKA WOLA  BAR MLECZNY JEDYNAK
+2018-08-20;2018-08-18;Płatność kartą;-26;PLN;Lokalizacja:  Wroclaw  Budimex Parking Wroclaw
+2018-08-21;2018-08-19;Płatność kartą;-215;PLN;Lokalizacja:  WROCLAW  HASTON CITY HOTEL
+2018-08-21;2018-08-19;Płatność kartą;-58;PLN;Lokalizacja:  Wroclaw  Aquapark Wroclaw
+2018-08-22;2018-08-20;Płatność kartą;-76.79;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 4378
+2018-08-22;2018-08-20;Płatność kartą;-0.6;PLN;Lokalizacja:     Top Market
+2018-08-23;2018-08-21;Płatność kartą;-2.59;PLN;Lokalizacja:     ZABKA Z5048 K.1
+2018-08-25;2018-08-24;Płatność kartą;-269;PLN;Lokalizacja:     Leroy Merlin   A
+2018-08-25;2018-08-23;Płatność kartą;-4.8;PLN;Lokalizacja:     Top Market
+2018-08-26;2018-08-25;Płatność kartą;-50.01;PLN;Lokalizacja:     ORLEN 47
+2018-08-26;2018-08-24;Płatność kartą;-8.03;PLN;Lokalizacja:     ZABKA Z5048 K.1
+2018-08-26;2018-08-24;Płatność kartą;-15.95;PLN;Lokalizacja:     SKLEP SPOZYWCZY
+2018-08-26;2018-08-24;Płatność kartą;-7.43;PLN;Lokalizacja:     ML COMPANY / Raclawicka
+2018-08-27;2018-08-25;Płatność kartą;-92.04;PLN;Lokalizacja:     TESCO KEN 18 KASA
+2018-08-31;2018-08-31;Opłata;-6.9;PLN;
+2018-09-01;2018-08-30;Płatność kartą;-10.95;PLN;Lokalizacja:     Top Market
+2018-09-01;2018-08-30;Płatność kartą;-33.98;PLN;Lokalizacja:     QLT Restaurant Nowy Swi
+2018-09-02;2018-08-31;Płatność kartą;-43.25;PLN;Lokalizacja:     TESCO KEN KASA 145
+2018-09-02;2018-08-31;Płatność kartą;-69;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Play Ap
+2018-09-03;2018-09-03;Opłata;-0.7;PLN;
+2018-09-03;2018-09-02;Płatność kartą;-97.61;PLN;Lokalizacja:  Glinianka  ORLEN 01
+2018-09-05;2018-09-03;Płatność kartą;-5.43;PLN;Lokalizacja:     Top Market
+2018-09-05;2018-09-03;Płatność kartą;-12.85;PLN;Lokalizacja:     ZABKA Z4548 K.1
+2018-09-05;2018-09-03;Płatność kartą;-34.99;PLN;Lokalizacja: Kraj: STANY ZJEDNOCZONE AMERYKI Miasto: HTTPSWWW.UDEM  UDEMY ONLINE COURSES
+2018-09-06;2018-09-04;Płatność kartą;-5.08;PLN;Lokalizacja:     TESCO KEN 8 KASA
+2018-09-06;2018-09-04;Płatność kartą;-11.65;PLN;Lokalizacja:     Top Market
+2018-09-08;2018-09-06;Płatność kartą;-27.99;PLN;Lokalizacja:     INTERSPORT POLSKA S.A.
+2018-09-09;2018-09-07;Płatność kartą;-10.7;PLN;Lokalizacja:     Top Market
+2018-09-09;2018-09-07;Płatność kartą;-2.98;PLN;Lokalizacja:  ELK  JMP S.A. BIEDRONKA 1956
+2018-09-10;2018-09-09;Płatność kartą;-4.99;PLN;Lokalizacja:  Lomza  ORLEN DOFO 01
+2018-09-10;2018-09-09;Płatność kartą;-81.41;PLN;Lokalizacja:  ELK  ORLEN 04
+2018-09-11;2018-09-10;Płatność kartą;-11.5;PLN;Lokalizacja:     McDonalds 07
+2018-09-11;2018-09-10;Płatność kartą;-20.99;PLN;Lokalizacja:     Leroy Merlin   A
+2018-09-11;2018-09-10;Płatność kartą;-13;PLN;Lokalizacja:  Nadarzyn  Pajda Catering
+2018-09-12;2018-09-11;Płatność kartą;-200;PLN;Lokalizacja:     MD CLINIC Przychodnia W
+2018-09-12;2018-09-10;Płatność kartą;-6.1;PLN;Lokalizacja:     Top Market
+2018-09-13;2018-09-12;Płatność kartą;-20.8;PLN;Lokalizacja:     Multikino Ursynow 01
+2018-09-13;2018-09-11;Płatność kartą;-11.49;PLN;Lokalizacja:     Top Market
+2018-09-14;2018-09-13;Płatność kartą;-90.99;PLN;Lokalizacja:  Piaseczno  DECATHLON Piaseczno
+2018-09-14;2018-09-12;Płatność kartą;-12;PLN;Lokalizacja:     SPOLEM WSS ZOLIBORZ
+2018-09-15;2018-09-13;Płatność kartą;-5.75;PLN;Lokalizacja:     MOKPOL SKLEP NR 50
+2018-09-15;2018-09-13;Płatność kartą;-7.44;PLN;Lokalizacja:     Top Market
+2018-09-15;2018-09-13;Płatność kartą;-6.8;PLN;Lokalizacja:     MPSA - A 398
+2018-09-16;2018-09-14;Płatność kartą;-11.1;PLN;Lokalizacja:     CUKIERNIA U JABLONOWSKICH
+2018-09-16;2018-09-14;Płatność kartą;-6.7;PLN;Lokalizacja:     Top Market
+2018-09-16;2018-09-14;Płatność kartą;-13;PLN;Lokalizacja:     GRYCAN LODY OD POKOLEN
+2018-09-17;2018-09-15;Płatność kartą;-8.2;PLN;Lokalizacja:     SKLEP SPOZYWCZY
+2018-09-19;2018-09-18;Płatność kartą;-12;PLN;Lokalizacja:  Brzesc Kujaws  McDonalds 509 MOP MACHN
+2018-09-19;2018-09-17;Płatność kartą;-13.03;PLN;Lokalizacja:     ZABKA Z5048 K.1
+2018-09-19;2018-09-17;Płatność kartą;-15.35;PLN;Lokalizacja:     TESCO KEN KASA 142
+2018-09-20;2018-09-19;Płatność kartą;-12;PLN;Lokalizacja:  Chojnice  McDonalds 229 Chojnice
+2018-09-20;2018-09-19;Płatność kartą;-7.68;PLN;Lokalizacja:  BYTOW  ORLEN 02
+2018-09-20;2018-09-19;Płatność kartą;-30.13;PLN;Lokalizacja:  Chojnice  LIDL BYTOWSKA
+2018-09-21;2018-09-19;Płatność kartą;-19;PLN;Lokalizacja:  Poznan  P.H.U You & Me To47136
+2018-09-23;2018-09-22;Płatność kartą;-50.76;PLN;Lokalizacja:  TARCZYN  ORLEN 04
+2018-09-23;2018-09-22;Płatność kartą;-114.88;PLN;Lokalizacja:     AUCHAN Ursynow
+2018-09-23;2018-09-21;Płatność kartą;-15.14;PLN;Lokalizacja:     Top Market
+2018-09-25;2018-09-23;Płatność kartą;-4.99;PLN;Lokalizacja:  ILZA  ORLEN 01
+2018-09-26;2018-09-25;Płatność kartą;-7.8;PLN;Lokalizacja:    (Urs  Poczta Polska 01
+2018-09-26;2018-09-24;Płatność kartą;-10.59;PLN;Lokalizacja:     Top Market
+2018-09-27;2018-09-25;Płatność kartą;-12.97;PLN;Lokalizacja:     SPOLEM WSS ZOLIBORZ
+2018-09-28;2018-09-30;Opłata;-6.9;PLN;
+2018-09-28;2018-09-27;Płatność kartą;-6;PLN;Lokalizacja:     McDonalds 464  
+2018-09-28;2018-09-26;Płatność kartą;-5.28;PLN;Lokalizacja:     SPOLEM WSS ZOLIBORZ
+2018-09-30;2018-09-29;Płatność kartą;-57.76;PLN;Lokalizacja:     PIEKARNIA WAROWNY SC
+2018-09-30;2018-09-28;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-09-30;2018-09-28;Płatność kartą;-3.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-09-30;2018-09-28;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-09-30;2018-09-28;Płatność kartą;-3.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-09-30;2018-09-28;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-09-30;2018-09-28;Płatność kartą;-0.99;PLN;Lokalizacja:     ZABKA Z5048 K.1
+2018-09-30;2018-09-28;Płatność kartą;-3.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-09-30;2018-09-28;Płatność kartą;-4.8;PLN;Lokalizacja:     SKLEP SPOZYWCZY
+2018-09-30;2018-09-28;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-09-30;2018-09-28;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-09-30;2018-09-28;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-09-30;2018-09-28;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-09-30;2018-09-28;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-09-30;2018-09-28;Płatność kartą;-3.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-09-30;2018-09-28;Płatność kartą;-3.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-09-30;2018-09-28;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-09-30;2018-09-28;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-09-30;2018-09-28;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-09-30;2018-09-28;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-10-02;2018-10-01;Płatność kartą;-11.8;PLN;Lokalizacja:     McDonalds 41
+2018-10-02;2018-10-01;Płatność kartą;-8.5;PLN;Lokalizacja:     McCafe
+2018-10-02;2018-09-30;Płatność kartą;-0.98;PLN;Lokalizacja:  GLINIANKA  ORLEN 02
+2018-10-03;2018-10-03;Opłata;-0.7;PLN;
+2018-10-04;2018-10-02;Płatność kartą;-11.84;PLN;Lokalizacja:     Top Market
+2018-10-04;2018-10-04;Opłata;-0.7;PLN;
+2018-10-06;2018-10-04;Płatność kartą;-6.84;PLN;Lokalizacja:     Top Market
+2018-10-07;2018-10-05;Płatność kartą;-150;PLN;Lokalizacja:     IMPLANT ART
+2018-10-08;2018-10-06;Płatność kartą;-26.96;PLN;Lokalizacja:  WARZAWA  EXPRESS MARCHE ZLOTE TARA
+2018-10-08;2018-10-06;Płatność kartą;-0.98;PLN;Lokalizacja:     CARREFOUR EXPRESS E24
+2018-10-09;2018-10-07;Płatność kartą;-107.35;PLN;Lokalizacja:     ORLEN 89
+2018-10-09;2018-10-07;Płatność kartą;-17.74;PLN;Lokalizacja:     TESCO KEN 10 KASA
+2018-10-09;2018-10-07;Płatność kartą;-13.74;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 4378
+2018-10-10;2018-10-08;Płatność kartą;-5.7;PLN;Lokalizacja:     Top Market
+2018-10-11;2018-10-09;Płatność kartą;-8.95;PLN;Lokalizacja:     Top Market
+2018-10-11;2018-10-09;Płatność kartą;-4.14;PLN;Lokalizacja:     BELGRADZKA 46
+2018-10-12;2018-10-11;Płatność kartą;-10.5;PLN;Lokalizacja:     MCDONALD'S 217 W-WA 28
+2018-10-12;2018-10-10;Płatność kartą;-10.16;PLN;Lokalizacja:     Top Market
+2018-10-13;2018-10-12;Płatność kartą;-20.9;PLN;Lokalizacja:     XGSM Maciej Pograniczny
+2018-10-13;2018-10-11;Płatność kartą;-16.81;PLN;Lokalizacja:     ZABKA Z4548 K.1
+2018-10-13;2018-10-10;Płatność kartą;-500;PLN;Lokalizacja:     IMPLANT ART
+2018-10-14;2018-10-12;Płatność kartą;-0.57;PLN;Lokalizacja:     ZABKA Z4647 K.1
+2018-10-14;2018-10-12;Płatność kartą;-12.4;PLN;Lokalizacja:     SPOLEM WSS ZOLIBORZ
+2018-10-15;2018-10-14;Płatność kartą;-103.76;PLN;Lokalizacja:  PROSIENICA  ORLEN 01
+2018-10-15;2018-10-13;Płatność kartą;-151.03;PLN;Lokalizacja:     ORLEN 92
+2018-10-16;2018-10-15;Płatność kartą;-4.5;PLN;Lokalizacja:  Elk  Sklep Firmowy Karmel 04
+2018-10-18;2018-10-17;Płatność kartą;-8.88;PLN;Lokalizacja:  Wiklow  ORLEN
+2018-10-18;2018-10-17;Płatność kartą;-44;PLN;Lokalizacja:  ZAKOPANE  TOP RESTAURACJE_MODE 08
+2018-10-18;2018-10-16;Płatność kartą;-11.7;PLN;Lokalizacja:     Top Market
+2018-10-18;2018-10-16;Płatność kartą;-300.49;PLN;Lokalizacja:     MARTES SPORT
+2018-10-19;2018-10-18;Płatność kartą;-5.49;PLN;Lokalizacja:  Poczesna  ORLEN 01
+2018-10-19;2018-10-17;Płatność kartą;-25.56;PLN;Lokalizacja:  ZAKOPANE  JMP S.A. BIEDRONKA 1663
+2018-10-21;2018-10-19;Płatność kartą;-88.45;PLN;Lokalizacja:  Sierpc  ORLEN DOFO 01
+2018-10-21;2018-10-19;Płatność kartą;-10.13;PLN;Lokalizacja:     CUKIERNIA U JABLONOWSKICH
+2018-10-21;2018-10-19;Płatność kartą;-6.23;PLN;Lokalizacja:     ZABKA Z4548 K.1
+2018-10-22;2018-10-21;Płatność kartą;-12;PLN;Lokalizacja:  Plonsk  McDonalds 348 Plonsk 01
+2018-10-22;2018-10-20;Płatność kartą;-34.93;PLN;Lokalizacja:  ZBICZNO  DINO ZBICZNO 1
+2018-10-24;2018-10-22;Płatność kartą;-8.6;PLN;Lokalizacja:     Top Market
+2018-10-26;2018-10-24;Płatność kartą;-8.35;PLN;Lokalizacja:     Top Market
+2018-10-26;2018-10-24;Płatność kartą;-10.5;PLN;Lokalizacja:     CUKIERNIA U JABLONOWSKICH
+2018-10-27;2018-10-25;Płatność kartą;-8.73;PLN;Lokalizacja:     ZABKA Z4548 K.1
+2018-10-27;2018-10-25;Płatność kartą;-4.5;PLN;Lokalizacja:     SAM PIATKA
+2018-10-27;2018-10-25;Płatność kartą;-19;PLN;Lokalizacja:     FIVE O CLOCK ARKADIA
+2018-10-27;2018-10-25;Płatność kartą;-7;PLN;Lokalizacja:     CUKIERNIA U JABLONOWSKICH
+2018-10-28;2018-10-26;Płatność kartą;-8.47;PLN;Lokalizacja:     ZABKA Z4548 K.1
+2018-10-30;2018-10-29;Płatność kartą;-12.98;PLN;Lokalizacja:     ORLEN 85
+2018-10-31;2018-10-31;Opłata;-6.9;PLN;
+2018-10-31;2018-10-29;Płatność kartą;-8.57;PLN;Lokalizacja:     ZABKA Z4548 K.1
+2018-10-31;2018-10-29;Płatność kartą;-3.12;PLN;Lokalizacja:     Sklep firmowy w Warszaw
+2018-10-31;2018-10-29;Płatność kartą;-600;PLN;Lokalizacja:     IMPLANT ART
+2018-10-31;2018-10-29;Płatność kartą;-10.65;PLN;Lokalizacja:     CUKIERNIA U JABLONOWSKICH
+2018-10-31;2018-10-29;Płatność kartą;-30.99;PLN;Lokalizacja:  OTWOCK  CIRCLE K OTWOCK. S
+2018-10-31;2018-10-29;Płatność kartą;-3.45;PLN;Lokalizacja:     BELGRADZKA 46
+2018-11-01;2018-10-31;Płatność kartą;-110.8;PLN;Lokalizacja:     Leroy Merlin   A
+2018-11-01;2018-10-31;Płatność kartą;-2.25;PLN;Lokalizacja:     Piekarnia K. i A. Ci 17
+2018-11-02;2018-10-31;Płatność kartą;-10.85;PLN;Lokalizacja:     ZABKA Z4548 K.1
+2018-11-02;2018-10-31;Płatność kartą;-4.8;PLN;Lokalizacja:     SAM PIATKA
+2018-11-02;2018-10-31;Płatność kartą;-188.9;PLN;Lokalizacja:     MEDIA MARKT
+2018-11-02;2018-10-31;Płatność kartą;-20.03;PLN;Lokalizacja:     FIVE O CLOCK ARKADIA
+2018-11-02;2018-10-31;Płatność kartą;-10.82;PLN;Lokalizacja:     CUKIERNIA U JABLONOWSKICH
+2018-11-03;2018-11-02;Płatność kartą;-18.48;PLN;Lokalizacja:     ROSSMANN 18
+2018-11-04;2018-11-03;Płatność kartą;-3.69;PLN;Lokalizacja:  PROSIENICA  ORLEN 01
+2018-11-04;2018-11-03;Płatność kartą;-1.79;PLN;Lokalizacja:  Elk  INTERMARCHE
+2018-11-04;2018-11-02;Płatność kartą;-7;PLN;Lokalizacja:     CUKIERNIA U JABLONOWSKICH
+2018-11-04;2018-11-02;Płatność kartą;-33.6;PLN;Lokalizacja:     APTEKA
+2018-11-04;2018-11-02;Płatność kartą;-6.48;PLN;Lokalizacja:     ZABKA Z4548 K.1
+2018-11-04;2018-11-02;Płatność kartą;-8.65;PLN;Lokalizacja:     Top Market
+2018-11-04;2018-11-02;Płatność kartą;-17.07;PLN;Lokalizacja:    (URS  JMP S.A. BIEDRONKA 5142
+2018-11-05;2018-11-04;Płatność kartą;-64.88;PLN;Lokalizacja:  LOMZA  ORLEN DOFO 04
+2018-11-06;2018-11-05;Płatność kartą;-70.98;PLN;Lokalizacja:     CASTORAMA   KRAK
+2018-11-06;2018-11-04;Płatność kartą;-5.69;PLN;Lokalizacja:  ELK  ZABKA Z4189 K.1
+2018-11-07;2018-11-06;Płatność kartą;-8;PLN;Lokalizacja:     McDonalds 33
+2018-11-07;2018-11-06;Płatność kartą;-200;PLN;Lokalizacja:     MD CLINIC Przychodnia W
+2018-11-07;2018-11-05;Płatność kartą;-8.9;PLN;Lokalizacja:     Top Market
+2018-11-07;2018-11-05;Płatność kartą;-280;PLN;Lokalizacja:     MPSA - A 303
+2018-11-07;2018-11-05;Płatność kartą;-800;PLN;Lokalizacja:     IMPLANT ART
+2018-11-08;2018-11-08;Opłata;-0.7;PLN;
+2018-11-08;2018-11-07;Płatność kartą;-50.91;PLN;Lokalizacja:     Leroy Merlin   A
+2018-11-08;2018-11-06;Płatność kartą;-15.44;PLN;Lokalizacja:     ZABKA Z4647 K.1
+2018-11-09;2018-11-08;Płatność kartą;-23.4;PLN;Lokalizacja:     Leroy Merlin   A
+2018-11-10;2018-11-08;Płatność kartą;-8.91;PLN;Lokalizacja:     ZABKA Z4548 K.1
+2018-11-10;2018-11-08;Płatność kartą;-10.1;PLN;Lokalizacja:     CUKIERNIA U JABLONOWSKICH
+2018-11-10;2018-11-08;Płatność kartą;-2.6;PLN;Lokalizacja:     AGNIESZKA PRZADAK
+2018-11-11;2018-11-09;Płatność kartą;-13.75;PLN;Lokalizacja:     ZABKA Z4548 K.1
+2018-11-13;2018-11-12;Płatność kartą;-122.5;PLN;Lokalizacja:     ORLEN 01
+2018-11-14;2018-11-13;Płatność kartą;-8;PLN;Lokalizacja:     McDonalds 33
+2018-11-14;2018-11-13;Płatność kartą;-2.7;PLN;Lokalizacja:     Piekarnia K. i A. Ci 17
+2018-11-15;2018-11-13;Płatność kartą;-3.48;PLN;Lokalizacja:     ZABKA Z4548 K.1
+2018-11-15;2018-11-13;Płatność kartą;-8.07;PLN;Lokalizacja:     CUKIERNIA U JABLONOWSKICH
+2018-11-16;2018-11-14;Płatność kartą;-5.95;PLN;Lokalizacja:     Top Market
+2018-11-16;2018-11-14;Płatność kartą;-4.8;PLN;Lokalizacja:     SAM PIATKA
+2018-11-17;2018-11-15;Płatność kartą;-15.12;PLN;Lokalizacja:     Top Market
+2018-11-17;2018-11-15;Płatność kartą;-3.7;PLN;Lokalizacja:     Asec PKP Srodmiescie pero
+2018-11-18;2018-11-16;Płatność kartą;-7.8;PLN;Lokalizacja:     Top Market
+2018-11-18;2018-11-16;Płatność kartą;-7.93;PLN;Lokalizacja:     CUKIERNIA U JABLONOWSKICH
+2018-11-19;2018-11-17;Płatność kartą;-4.99;PLN;Lokalizacja:     ORLEN 01
+2018-11-19;2018-11-17;Płatność kartą;-218.92;PLN;Lokalizacja:     ORLEN 01
+2018-11-20;2018-11-18;Płatność kartą;-15.1;PLN;Lokalizacja:     LOTOS SF382 K.1
+2018-11-21;2018-11-19;Płatność kartą;-0.44;PLN;Lokalizacja:     JMP S.A. BIEDRONKA 6127
+2018-11-21;2018-11-19;Płatność kartą;-14.9;PLN;Lokalizacja:     APTEKA
+2018-11-22;2018-11-21;Płatność kartą;-6.14;PLN;Lokalizacja:     OSTROPOL SP Z O.O. S 02
+2018-11-22;2018-11-20;Płatność kartą;-280;PLN;Lokalizacja:     IMPLANT ART
+2018-11-22;2018-11-20;Płatność kartą;-2.95;PLN;Lokalizacja:     BELGRADZKA 46
+2018-11-23;2018-11-21;Płatność kartą;-66.55;PLN;Lokalizacja:     Apteka z Usmiechem D01
+2018-11-23;2018-11-21;Płatność kartą;-8;PLN;Lokalizacja:  Nowy Dwor Maz  Airpot  -Modlin
+2018-11-24;2018-11-22;Płatność kartą;-121.86;PLN;Lokalizacja:     ORLEN 111
+2018-11-24;2018-11-22;Płatność kartą;-47.88;PLN;Lokalizacja:     AUCHAN Ursynow
+2018-11-24;2018-11-22;Płatność kartą;-10.5;PLN;Lokalizacja:     McDonalds CH Ursynow
+2018-11-25;2018-11-23;Płatność kartą;-11.45;PLN;Lokalizacja:     ZABKA Z4647 K.1
+2018-11-25;2018-11-23;Płatność kartą;-10.38;PLN;Lokalizacja:  WOLA KRZYSZTO  CIRCLE K KARGAL LA
+2018-11-26;2018-11-25;Płatność kartą;-120.48;PLN;Lokalizacja:  JEMIELNICA  ORLEN 01
+2018-11-26;2018-11-25;Płatność kartą;-90.14;PLN;Lokalizacja:     ORLEN 81
+2018-11-26;2018-11-25;Płatność kartą;-3.39;PLN;Lokalizacja:  BROJCE  ORLEN 01
+2018-11-26;2018-11-23;Płatność kartą;-15.08;PLN;Lokalizacja:     RELAY 34
+2018-11-26;2018-11-23;Płatność kartą;-4.2;PLN;Lokalizacja:     Piekarnie Lubaszka s 08
+2018-11-28;2018-11-26;Płatność kartą;-7.6;PLN;Lokalizacja:     CUKIERNIA U JABLONOWSKICH
+2018-11-28;2018-11-26;Płatność kartą;-14.92;PLN;Lokalizacja:     ZABKA Z4548 K.1
+2018-11-28;2018-11-26;Płatność kartą;-20.99;PLN;Lokalizacja:     MEDIA MARKT
+2018-11-29;2018-11-27;Płatność kartą;-149;PLN;Lokalizacja:     ELKAM MICHAL KAMINSKI
+2018-11-30;2018-11-30;Opłata;-6.9;PLN;
+2018-11-30;2018-11-29;Płatność kartą;-363.98;PLN;Lokalizacja:     IKEA Retail Sp. z o.o.-
+2018-11-30;2018-11-30;Opłata;-0.7;PLN;
+2018-11-30;2018-11-28;Płatność kartą;-6.5;PLN;Lokalizacja:     Top Market
+2018-11-30;2018-11-28;Płatność kartą;-180;PLN;Lokalizacja:     IMPLANT ART
+2018-12-01;2018-11-28;Płatność kartą;-2.5;PLN;Lokalizacja:     AUTOMATY H NAD B
+2018-12-02;2018-11-30;Płatność kartą;-3.1;PLN;Lokalizacja:     Top Market
+2018-12-02;2018-11-30;Płatność kartą;-6.05;PLN;Lokalizacja:  SULEJOW  JMP S.A. BIEDRONKA 4424
+2018-12-05;2018-12-03;Płatność kartą;-6.9;PLN;Lokalizacja:     Top Market
+2018-12-06;2018-12-04;Płatność kartą;-11.1;PLN;Lokalizacja:     Top Market
+2018-12-06;2018-12-04;Płatność kartą;-400;PLN;Lokalizacja:     IMPLANT ART
+2018-12-07;2018-12-06;Płatność kartą;-11;PLN;Lokalizacja:     McDonalds 07
+2018-12-07;2018-12-05;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-12-07;2018-12-05;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-12-07;2018-12-05;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-12-07;2018-12-05;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-12-07;2018-12-05;Płatność kartą;-3.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-12-07;2018-12-05;Płatność kartą;-3.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-12-07;2018-12-05;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-12-07;2018-12-05;Płatność kartą;-3.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-12-07;2018-12-05;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-12-07;2018-12-05;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-12-07;2018-12-05;Płatność kartą;-7.05;PLN;Lokalizacja:     ZABKA Z4647 K.1
+2018-12-07;2018-12-05;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-12-07;2018-12-05;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-12-07;2018-12-05;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-12-07;2018-12-05;Płatność kartą;-4.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-12-07;2018-12-05;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-12-07;2018-12-05;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-12-07;2018-12-05;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-12-07;2018-12-05;Płatność kartą;-1.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-12-07;2018-12-05;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-12-07;2018-12-05;Płatność kartą;-4.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-12-09;2018-12-07;Płatność kartą;-5.28;PLN;Lokalizacja:     ZABKA Z4548 K.1
+2018-12-09;2018-12-07;Płatność kartą;-5.4;PLN;Lokalizacja:     Top Market
+2018-12-09;2018-12-07;Płatność kartą;-15.95;PLN;Lokalizacja:     CUKIERNIA U JABLONOWSKICH
+2018-12-09;2018-12-07;Płatność kartą;-6.6;PLN;Lokalizacja:     BELGRADZKA 46
+2018-12-10;2018-12-08;Płatność kartą;-117.66;PLN;Lokalizacja:     ORLEN 111
+2018-12-10;2018-12-08;Płatność kartą;-0.49;PLN;Lokalizacja:     ROSSMANN 59
+2018-12-10;2018-12-08;Płatność kartą;-14.77;PLN;Lokalizacja:     ZABKA Z4647 K.2
+2018-12-11;2018-12-09;Płatność kartą;-8.73;PLN;Lokalizacja:     ZABKA Z4647 K.1
+2018-12-11;2018-12-09;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-12-11;2018-12-09;Płatność kartą;-2.99;PLN;Lokalizacja: Kraj: WIELKA BRYTANIA Miasto: g.co/helppay#  GOOGLE *Google Music
+2018-12-12;2018-12-11;Płatność kartą;-10;PLN;Lokalizacja:     RESTAURACJA MCDONALD'S
+2018-12-12;2018-12-10;Płatność kartą;-12.19;PLN;Lokalizacja:     SPOLEM WSS ZOLIBORZ
+2018-12-13;2018-12-13;Opłata;-0.7;PLN;
+2018-12-13;2018-12-12;Płatność kartą;-10;PLN;Lokalizacja:  Nadarzyn  Pajda Catering
+2018-12-15;2018-12-13;Płatność kartą;-7.48;PLN;Lokalizacja:     PRIM
+2018-12-16;2018-12-14;Płatność kartą;-18.98;PLN;Lokalizacja:     SPOLEM WSS ZOLIBORZ
+2018-12-16;2018-12-14;Płatność kartą;-20;PLN;Lokalizacja:     PARKING P1-33
+2018-12-17;2018-12-16;Płatność kartą;-118.68;PLN;Lokalizacja:  KARCZEW  ORLEN DOFO 01
+2018-12-18;2018-12-18;Opłata;-0.7;PLN;
+2018-12-19;2018-12-18;Płatność kartą;-22;PLN;Lokalizacja:     McDonalds 12
+2018-12-19;2018-12-17;Płatność kartą;-7;PLN;Lokalizacja:     Top Market
+2018-12-20;2018-12-18;Płatność kartą;-18.49;PLN;Lokalizacja:     Delikatesy Stolicy
+2018-12-21;2018-12-20;Płatność kartą;-13;PLN;Lokalizacja:  Nadarzyn  Pajda Catering
+2018-12-21;2018-12-19;Płatność kartą;-0.15;PLN;Lokalizacja:     ZABKA Z4548 K.1
+2018-12-21;2018-12-19;Płatność kartą;-250;PLN;Lokalizacja:     IMPLANT ART
+2018-12-21;2018-12-19;Płatność kartą;-7.6;PLN;Lokalizacja:     CUKIERNIA U JABLONOWSKICH
+2018-12-22;2018-12-21;Płatność kartą;-138.5;PLN;Lokalizacja:     Leroy Merlin   A
+2018-12-22;2018-12-20;Płatność kartą;-11.11;PLN;Lokalizacja:     Top Market
+2018-12-22;2018-12-20;Płatność kartą;-30;PLN;Lokalizacja:     PUH AUTO HI FI M NOWAK
+2018-12-23;2018-12-22;Płatność kartą;-126.26;PLN;Lokalizacja:  ROSZCZEP  ORLEN DOFO 01
+2018-12-23;2018-12-21;Płatność kartą;-5.17;PLN;Lokalizacja:     ZABKA Z4548 K.1
+2018-12-23;2018-12-21;Płatność kartą;-7.9;PLN;Lokalizacja:     Top Market
+2018-12-23;2018-12-21;Płatność kartą;-0.94;PLN;Lokalizacja:     CUKIERNIA U JABLONOWSKICH
+2018-12-25;2018-12-24;Płatność kartą;-11.38;PLN;Lokalizacja:  Elk  ROSSMANN 01
+2018-12-27;2018-12-26;Płatność kartą;-5.49;PLN;Lokalizacja:  GRAJEWO  ORLEN 01
+2018-12-27;2018-12-26;Płatność kartą;-182.94;PLN;Lokalizacja:  ELK  ORLEN 04
+2018-12-30;2018-12-29;Płatność kartą;-94.96;PLN;Lokalizacja:     ORLEN 111
+2018-12-30;2018-12-29;Płatność kartą;-24.98;PLN;Lokalizacja:     Leroy Merlin   T
+2018-12-30;2018-12-28;Płatność kartą;-1692.3;PLN;Lokalizacja:     SKLEP LEG-SAINT ART.SANIT
+2018-12-30;2018-12-28;Płatność kartą;-38.8;PLN;Lokalizacja:     KEBAB KING
+2018-12-31;2018-12-31;Opłata;-6.9;PLN;
+2018-12-31;2018-12-30;Płatność kartą;-13.4;PLN;Lokalizacja:     1-MINUTE 30
